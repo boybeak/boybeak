@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="npd.gif" width="160" style="object-fit: cover; border-radius: 50%;">
+
 <!--
 **boybeak/boybeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
