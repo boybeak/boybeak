@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boybeak&label=Profile%20views&color=0e75b6&style=flat" alt="boybeak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boybeak" alt="boybeak" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/BeakInAir" target="blank"><img src="https://img.shields.io/twitter/follow/boybeak?logo=twitter&style=for-the-badge" alt="BeakInAir" /></a> </p>
 
 - 📝 I regularly write articles on [https://boybeak.github.io/](https://boybeak.github.io/)
