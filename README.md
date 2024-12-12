@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<img src="npd.gif" width="160" style="border-radius: 80;">
-
 <h1 align="center">Hi 👋, I'm boybeak</h1>
 <h3 align="center">May be a independent developer from China</h3>
 
